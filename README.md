@@ -278,6 +278,39 @@ Run the train.py file to train the model. You can do this by typing python3 trai
 
 &nbsp;
 
+Once the training is complete, the model will be saved in the file `mnist_model.h5` in the same directory.
+
+<pre>
+  ❯ tree -L 2 -a -I 'README.md|.DS_Store|.git|.gitignore|venv|gambar-petunjuk' ./
+    ./
+    ├── data
+    │   ├── __init__.py
+    │   ├── __pycache__
+    │   └── data_loader.py
+    ├── mnist_model.h5
+    ├── models
+    │   ├── __init__.py
+    │   ├── __pycache__
+    │   └── neural_network.py
+    ├── predict.py
+    ├── requirements.txt
+    ├── train.py
+    └── utils
+        ├── __init__.py
+        ├── __pycache__
+        └── helper_functions.py
+
+    6 directories, 10 files
+
+
+
+  ❯ find ./ -type f -name "*.h5" | sed 's/[^\/]*\//|   /g;s/| *\([^| ]\)/+--- \1/'
+    |   +--- mnist_model.h5
+    |   |   |   |   |   |   |   |   +--- vlen_string_s390x.h5
+    |   |   |   |   |   |   |   |   +--- vlen_string_dset_utc.h5
+    |   |   |   |   |   |   |   |   +--- vlen_string_dset.h5
+</pre>
+
 &nbsp;
 
 &nbsp;
