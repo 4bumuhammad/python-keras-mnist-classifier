@@ -42,20 +42,20 @@ Creating Directories and File Structures
   ❯ touch train.py predict.py
 
   ❯ tree -L 2 -a -I 'README.md|.DS_Store|.git|.gitignore|venv' ./
-  ./
-  ├── data
-  │   ├── __init__.py
-  │   └── data_loader.py
-  ├── models
-  │   ├── __init__.py
-  │   └── neural_network.py
-  ├── predict.py
-  ├── train.py
-  └── utils
-      ├── __init__.py
-      └── helper_functions.py
+    ./
+    ├── data
+    │   ├── __init__.py
+    │   └── data_loader.py
+    ├── models
+    │   ├── __init__.py
+    │   └── neural_network.py
+    ├── predict.py
+    ├── train.py
+    └── utils
+        ├── __init__.py
+        └── helper_functions.py
 
-  3 directories, 8 files
+    3 directories, 8 files
 </pre>
 
 &nbsp;
