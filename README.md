@@ -74,6 +74,26 @@ Creating Directories and File Structures
 
 &nbsp;
 
+<pre>
+  ❯ pip list
+  Package           Version
+  ----------------- -------
+  absl-py           2.1.0
+  h5py              3.11.0
+  keras             3.3.3
+  markdown-it-py    3.0.0
+  mdurl             0.1.2
+  ml-dtypes         0.4.0
+  namex             0.0.8
+  numpy             1.26.4
+  optree            0.11.0
+  pip               22.0.4
+  Pygments          2.18.0
+  rich              13.7.1
+  setuptools        58.1.0
+  typing_extensions 4.11.0
+</pre>
+
 &nbsp;
 
 &nbsp;
