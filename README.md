@@ -31,6 +31,20 @@ Dalam project ini, kita akan membuat dan melatih sebuah model jaringan saraf tir
 
 Creating Directories and File Structures
 <pre>
+  ❯ pwd
+      /Users/.../<project-name>
+
+  ❯ cd <project-name>
+
+  ❯ python -m venv venv
+
+  ❯ source ./venv/bin/activate
+
+  ❯ pip install -r requirements.txt
+
+
+
+
   ❯ mkdir -p data models utils
 
   ❯ touch data/__init__.py data/data_loader.py
