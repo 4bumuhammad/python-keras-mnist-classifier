@@ -23,6 +23,8 @@ Reference : <br />
 
 Dalam project ini, kita akan membuat dan melatih sebuah model jaringan saraf tiruan sederhana untuk melakukan klasifikasi gambar menggunakan dataset MNIST, yang terdiri dari gambar-gambar angka tulisan tangan.
 
+<i>In this project, we will build and train a simple artificial neural network model to perform image classification using the MNIST dataset, which consists of handwritten numeric images.</i>
+
 &nbsp;
 
 &nbsp;
