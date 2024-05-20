@@ -1,4 +1,4 @@
-# Python : Keras (hight-level neural networks API) with dataset MNIST
+# &#x1F6A9; Python : Keras (hight-level neural networks API) with dataset MNIST
 
 &nbsp;
 
@@ -186,5 +186,31 @@ def plot_training_history(history):
 &nbsp;
 
 ---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/well_done.png" alt="well_done" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+---
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
