@@ -258,6 +258,20 @@ def plot_training_history(history):
 
 &nbsp;
 
+## &#x1F530; Run
+
+Run the train.py file to train the model. You can do this by typing python3 train.py in the terminal.
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_training_and_validation_accuracy_01.png" alt="ss_training_and_validation_accuracy_01" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_training_and_validation_loss_02.png" alt="ss_training_and_validation_loss_02" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
 
 &nbsp;
