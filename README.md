@@ -315,6 +315,26 @@ Once the training is complete, the model will be saved in the file `mnist_model.
 
 &nbsp;
 
+## Result :
+
+Run the predict.py file to make predictions with the trained model. Type python3 predict.py in the terminal.
+<pre>
+  ❯ python3 predict.py
+    WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 56ms/step
+    Predicted: 7, Actual: 7
+    Predicted: 2, Actual: 2
+    Predicted: 1, Actual: 1
+    Predicted: 0, Actual: 0
+    Predicted: 4, Actual: 4
+</pre>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 ---
