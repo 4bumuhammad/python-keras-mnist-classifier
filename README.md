@@ -19,7 +19,7 @@ Reference : <br />
 
 &nbsp;
 
-## Project
+## &#x1F530; Project
 
 Dalam project ini, kita akan membuat dan melatih sebuah model jaringan saraf tiruan sederhana untuk melakukan klasifikasi gambar menggunakan dataset MNIST, yang terdiri dari gambar-gambar angka tulisan tangan.
 
@@ -27,7 +27,7 @@ Dalam project ini, kita akan membuat dan melatih sebuah model jaringan saraf tir
 
 &nbsp;
 
-## Begin : 
+## &#x1F530; Begin : 
 
 Creating Directories and File Structures
 <pre>
@@ -64,7 +64,7 @@ Creating Directories and File Structures
 
 &nbsp;
 
-## Codes : 
+## &#x1F530; Codes : 
 
 <pre>
   ❯ vim data/data_loader.py
