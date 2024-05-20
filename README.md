@@ -32,9 +32,9 @@ Dalam project ini, kita akan membuat dan melatih sebuah model jaringan saraf tir
 Creating Directories and File Structures
 <pre>
   ❯ pwd
-      /Users/.../<project-name>
+      /Users/.../&lt;project-name&gt;
 
-  ❯ cd <project-name>
+  ❯ cd &lt;project-name&gt;
 
   ❯ python -m venv venv
 
