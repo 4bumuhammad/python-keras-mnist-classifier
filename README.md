@@ -262,6 +262,10 @@ def plot_training_history(history):
 
 Run the train.py file to train the model. You can do this by typing python3 train.py in the terminal.
 
+<pre>
+  ❯ python3 train.py
+</pre>
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_training_and_validation_accuracy_01.png" alt="ss_training_and_validation_accuracy_01" style="display: block; margin: 0 auto;">
 </div> 
